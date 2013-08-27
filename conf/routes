@@ -1,0 +1,2 @@
+
+GET  /assets/{startId}/{<[\w\/]+>styleName}.css     stylus.StylusController.style

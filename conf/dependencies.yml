@@ -1,0 +1,4 @@
+self: play -> stylus $version
+
+require:
+    - play
